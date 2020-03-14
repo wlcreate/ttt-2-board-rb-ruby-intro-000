@@ -1,2 +1,2 @@
-board = "row"
-row = [" ", " ", " "]
+board = "board"
+board = [" ", " ", " "]
